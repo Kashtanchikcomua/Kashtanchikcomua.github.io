@@ -1,0 +1,76 @@
+Uri: https://fonts.googleapis.com/css2?display=swap&family=Source+Sans+Pro:ital,wght@0,400;1,400
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPa7g.ttf
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPa7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+Content Type: font/ttf
+
+Uri: https://kashtanchik.carrd.co/
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\index.htm
+Content Type: text/html
+
+Uri: https://kashtanchik.carrd.co/assets/images/bg.jpg?v=51371845
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\assets\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://kashtanchik.carrd.co/assets/images/image01.jpg?v=51371845
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\assets\images\image01.jpg
+Content Type: image/jpeg
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://kashtanchik.carrd.co/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\kashtanchik.carrd.co\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
